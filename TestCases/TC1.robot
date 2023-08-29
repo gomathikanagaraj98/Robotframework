@@ -16,7 +16,7 @@ LOGINTEST
 *** Keywords ***
 loginToApplication
     click link  //a[@class='ico-login']
-    input text  id:Email         gomathikanagaraj1929@gmail.com
-    input text  id:Password      gomu@0598
+    input text  id:Email         gokanvc@gmail.com
+    input text  id:Password      gk@059
     click element  //button[normalize-space()='Log in']
 
