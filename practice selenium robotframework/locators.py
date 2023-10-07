@@ -1,0 +1,21 @@
+# login_elements
+txt_loginUserName = "name:userName"
+txt_loginPassword = "name:password"
+submit = "//input[@name='submit']"
+
+# Registration page element
+link_reg="link:REGISTER"
+txt_loginUserName = "name:userName"
+txt_loginPassword = "name:password"
+txt_phone="name:phone"
+txt_email="name:userName"
+txt_add1="name:address1"
+txt_add2="name:address2"
+txt_city="name:city"
+txt_state="name:state"
+txt_postcode="name:postalCode"
+dropdown_country="name:country"
+txt_username="name:email"
+txt_password="name:password"
+txt_confirmPassword="name:confirmPassword"
+txt_submit="//input[@name='submit']"
